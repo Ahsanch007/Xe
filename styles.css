@@ -515,4 +515,11 @@ footer {
     margin-bottom: 10px;
     margin-top: 10px;
   }
+  .currency-profile{
+    display: none;
+  }
+  .icons{
+    display: flex;
+    gap: 15px;
+  }
 }
